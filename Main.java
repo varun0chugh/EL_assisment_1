@@ -1,3 +1,5 @@
+//i have coded this program in python because i dont have knowledge in java or c#
+//so i have converted my python code to java using chatgpt,if some plagarism occurs pls remember i have not copied the code just converted it in python 
 import java.util.*;
 import java.io.*;
 import java.net.*;
